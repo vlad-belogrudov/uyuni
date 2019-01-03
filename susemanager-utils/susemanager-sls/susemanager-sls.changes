@@ -1,3 +1,5 @@
+- use default 'master' branch in OSImage profile URL (bsc#1108218)
+
 -------------------------------------------------------------------
 Mon Dec 17 14:46:00 CET 2018 - jgonzalez@suse.com
 
